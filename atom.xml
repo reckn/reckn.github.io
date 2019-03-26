@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Reckn</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://reckn.github.io/"/>
+  <updated>2019-03-26T14:27:57.830Z</updated>
+  <id>https://reckn.github.io/</id>
+  
+  <author>
+    <name>Reckn</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First post</title>
+    <link href="https://reckn.github.io/2019/03/26/First-post/"/>
+    <id>https://reckn.github.io/2019/03/26/First-post/</id>
+    <published>2019-03-26T14:23:15.000Z</published>
+    <updated>2019-03-26T14:27:57.830Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hi this is the first post. How do you do? Now I’m using hexo as static blog generator. It is simple and fast. KISS.</p><blockquote><p>The quote is here.</p></blockquote><p>The paragraph two is very short. Just babbling here and I’m still fine.</p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Hi this is the first post. How do you do? Now I’m using hexo as static blog generator. It is simple and fast. KISS.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;The quote is here.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The paragraph two is very short. Just babbling here and I’m still fine.&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
